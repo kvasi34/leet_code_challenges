@@ -6,6 +6,7 @@ A collection of LeetCode problem solutions.
 
 1. [Two Sum](./problems/two_sum/two_sum.md)
 2. [Add Two Numbers](./problems/add_two_numbers/add_two_numbers.md)
+6. [Zigzag Conversion](./problems/zigzag_conversion/zigzag_conversion.md)
 9. [Is Palindrome](./problems/is_palindrome/is_palindrome.md)
 11. [Container With Most Water](./problems/container_with_most_water/container_with_most_water.md)
 13. [Roman To Integer](./problems/roman_to_integer/roman_to_integer.md)
