@@ -15,6 +15,7 @@ A collection of LeetCode problem solutions.
 20. [Valid Parenthese](./problems/valid_parentheses/valid_parentheses.md)
 21. [Merge Two Sorted Lists](./problems/merge_two_sorted_lists/merge_two_sorted_lists.md)
 27. [Remove Element](./problems/remove_element/remove_element.md)
+28. [Find the Index of the First Occurrence in a String](./problems/find_the_index_of_the_first_occurrence_in_a_string/find_the_index_of_the_first_occurrence_in_a_string.md)
 29. [Divide Two Integers](./problems/divide_two_integers/divide_two_integers.md)
 38. [Count and Say](./problems/count_and_say/count_and_say.md)
 55. [Jump Game](./problems/jump_game/jump_game.md)
